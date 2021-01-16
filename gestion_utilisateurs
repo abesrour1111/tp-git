@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ###ajout des utilisateurs
 useradd
+=======
+#ajout des utilisateurs
+useradd - adduser
+>>>>>>> 127ccb371b3cfa6fbe1b4475466910da5c9bef5f
 #défintion du groupe primaire
 useradd -g
 #définition des groupes secondaires
