@@ -1,0 +1,10 @@
+#installation d'un paquet
+apt install
+#liste des paquets
+dpkg -l
+apt pkgnames
+#mise à jour de la base de données
+apt update
+#mise a jour des paquets
+apt upgrade
+
