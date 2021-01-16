@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 test<<<<<<< HEAD
 ###ajout des utilisateurs
 useradd
 =======
 #ajout des utilisateurs
+=======
+##ajout des utilisateurs
+>>>>>>> 39d3b0ed9df1a3c7a933946f81807cd2b5da5cff
 useradd - adduser
 >>>>>>> 127ccb371b3cfa6fbe1b4475466910da5c9bef5f
 #défintion du groupe primaire
