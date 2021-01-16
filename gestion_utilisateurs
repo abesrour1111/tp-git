@@ -1,4 +1,4 @@
-#ajout des utilisateurs
+##ajout des utilisateurs
 useradd - adduser
 #défintion du groupe primaire
 useradd -g
