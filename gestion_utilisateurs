@@ -1,5 +1,5 @@
 #ajout des utilisateurs
-useradd
+useradd - adduser
 #défintion du groupe primaire
 useradd -g
 #définition des groupes secondaires
