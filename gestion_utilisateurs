@@ -1,6 +1,15 @@
 #ajout des utilisateurs
 useradd
+#défintion du groupe primaire
+useradd -g
+#définition des groupes secondaires
+useradd -G
 #modification des utilisateurs
 usermod
+#modification du répertoire de travail
+usermod -d
 #suppression des utilisateurs
 userdel
+
+
+#signature: AB #
